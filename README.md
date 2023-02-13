@@ -54,4 +54,5 @@ Edit for Lab Section 030L:
 - This edit is for my lab!
 
 Edit for Lab Section 031L:
--
+- yo I think you need to man up and pay your bills on time everytime aaron oster man up again
+
